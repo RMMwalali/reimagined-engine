@@ -1,1 +1,5 @@
-
+spring:
+  application:
+    name: posbackend
+server:
+  port: 8000
